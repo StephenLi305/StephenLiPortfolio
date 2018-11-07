@@ -3419,7 +3419,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/london2.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3487,9 +3487,10 @@ input, select, textarea {
 			}
 
 				#banner .content .image img {
-					border-radius: 100%;
+					/* border-radius: 100%; */
 					display: block;
 					width: 100%;
+					left:
 				}
 
 	body.is-touch #banner {

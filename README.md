@@ -36,3 +36,14 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+List:
+Header - jump to part of page?
+About Me
+Skills - see resume
+Resume
+Projects
+Education
+Contact LI, GH, AL, email, name
+
+I am a Software Developer based in San Francisco with experience developing web applications in React.js, Redux, Ruby on Rails, and PostgreSQL.
