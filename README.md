@@ -1,6 +1,8 @@
 StephenLi Portfolio
 
+I am a Software Developer based in San Francisco with experience developing web applications in React.js, Redux, Ruby on Rails, and PostgreSQL.
 
+<!--
 Landed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -44,6 +46,4 @@ Skills - see resume
 Resume
 Projects
 Education
-Contact LI, GH, AL, email, name
-
-I am a Software Developer based in San Francisco with experience developing web applications in React.js, Redux, Ruby on Rails, and PostgreSQL.
+Contact LI, GH, AL, email, name -->
